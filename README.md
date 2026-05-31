@@ -10,7 +10,7 @@
 
 </div>
 
----
+<img width="100%" src="./waves/footer-line.svg" alt="" />
 
 ## Profile
 
@@ -20,7 +20,7 @@
 
 * Apply OOP principles, SOLID practices, and design patterns where appropriate to build maintainable systems and support long-term product growth.
 
----
+<img width="100%" src="./waves/footer-line.svg" alt="" />
 
 ## Tech Stack
 
@@ -68,7 +68,7 @@
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
 ![AI Log Integration](https://img.shields.io/badge/AI%20Log%20Integration-0C969B?style=for-the-badge&logoColor=white)
 
----
+<img width="100%" src="./waves/footer-line.svg" alt="" />
 
 ## GitHub Stats
 
@@ -86,7 +86,7 @@
 
 </div>
 
----
+<img width="100%" src="./waves/footer-line.svg" alt="" />
 
 ## Featured Projects
 
@@ -107,7 +107,7 @@ Coffee shop management system built with Zend Framework MVC — menu, orders, an
 ![Zend/Laminas](https://img.shields.io/badge/Zend%2FLaminas-68B604?style=flat-square&logo=zend-framework&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
+<img width="100%" src="./waves/footer-line.svg" alt="" />
 
 ## Current Focus
 
@@ -120,7 +120,7 @@ Coffee shop management system built with Zend Framework MVC — menu, orders, an
 
 </div>
 
----
+<img width="100%" src="./waves/footer-line.svg" alt="" />
 
 ## Contact
 
