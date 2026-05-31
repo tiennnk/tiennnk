@@ -18,6 +18,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ngtn-tiennguyen
+          SETTING_JSON: |
+            {
+              "githubUserName": "ngtn-tiennguyen",
+              "backgroundColor": "#0d1117"
+            }
 
       - name: Commit & Push
         run: |
