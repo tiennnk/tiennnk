@@ -90,22 +90,12 @@
 
 ## Featured Projects
 
-### [devflow-platform](https://github.com/ngtn-tiennguyen/devflow-platform)
+<div align="center">
 
-Developer workflow platform — JWT auth, real-time WebSocket, BullMQ job queue, AI-powered log analysis, Swagger UI, Docker.
+[![devflow-platform](https://github-readme-stats.vercel.app/api/pin/?username=ngtn-tiennguyen&repo=devflow-platform&bg_color=00000000&border_color=0C969B&title_color=0C969B&icon_color=0C969B&text_color=b8eced)](https://github.com/ngtn-tiennguyen/devflow-platform)
+[![zend-highlands-coffee-mvc](https://github-readme-stats.vercel.app/api/pin/?username=ngtn-tiennguyen&repo=zend-highlands-coffee-mvc&bg_color=00000000&border_color=0C969B&title_color=0C969B&icon_color=0C969B&text_color=b8eced)](https://github.com/ngtn-tiennguyen/zend-highlands-coffee-mvc)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-CC0000?style=flat-square&logo=redis&logoColor=white)
-
-### [zend-highlands-coffee-mvc](https://github.com/ngtn-tiennguyen/zend-highlands-coffee-mvc)
-
-Coffee shop management system built with Zend Framework MVC — menu, orders, and inventory with MySQL.
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Zend/Laminas](https://img.shields.io/badge/Zend%2FLaminas-68B604?style=flat-square&logo=zend-framework&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+</div>
 
 <img width="100%" src="./waves/footer-line.svg" alt="" />
 
