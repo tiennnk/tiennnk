@@ -21,7 +21,7 @@ jobs:
           SETTING_JSON: |
             {
               "githubUserName": "ngtn-tiennguyen",
-              "backgroundColor": "#0d1117"
+              "backgroundColor": "#161b22"
             }
 
       - name: Replace green with teal
@@ -43,6 +43,7 @@ jobs:
               ("rgb(23, 105, 33)",  "rgb(6, 72, 74)"),
               ("rgb(19, 88, 28)",   "rgb(5, 61, 63)"),
               ("#47a042",           "#0C969B"),
+              ("#00000f",           "#161b22"),
           ]
 
           targets = [
