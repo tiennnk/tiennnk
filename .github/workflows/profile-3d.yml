@@ -24,6 +24,21 @@ jobs:
               "backgroundColor": "#0d1117"
             }
 
+      - name: Replace green with teal
+        run: |
+          for f in profile-3d-contrib/profile-night-green.svg profile-3d-contrib/profile-green.svg; do
+            if [ -f "$f" ]; then
+              sed -i \
+                -e 's/#39d353/#0C969B/g' \
+                -e 's/#26a641/#0A7A7F/g' \
+                -e 's/#006d32/#085E62/g' \
+                -e 's/#0e4429/#064e52/g' \
+                -e 's/#00ff7f/#0C969B/g' \
+                -e 's/#1a7f25/#0A7A7F/g' \
+                "$f"
+            fi
+          done
+
       - name: Commit & Push
         run: |
           git config user.email "action@github.com"
