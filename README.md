@@ -132,4 +132,4 @@ Coffee shop management system built with Zend Framework MVC — menu, orders, an
 
 </div>
 
----
+<img width="100%" src="./waves/footer-box.svg" alt="" />

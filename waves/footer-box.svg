@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="100%" height="100" overflow="hidden">
+  <defs>
+    <style>
+      @keyframes wave { from { transform: translateX(0); } to { transform: translateX(-400px); } }
+      .w { animation: wave 4s linear infinite; }
+    </style>
+  </defs>
+
+  <!-- Top wave border (animated) -->
+  <g class="w">
+    <path d="M0,18 C74,7 126,7 200,18 C274,29 326,29 400,18 C474,7 526,7 600,18 C674,29 726,29 800,18 C874,7 926,7 1000,18 C1074,29 1126,29 1200,18"
+          stroke="#0C969B" stroke-width="2" fill="none" stroke-opacity="0.9"/>
+    <path d="M0,18 C74,29 126,29 200,18 C274,7 326,7 400,18 C474,29 526,29 600,18 C674,7 726,7 800,18 C874,29 926,29 1000,18 C1074,7 1126,7 1200,18"
+          stroke="#0C969B" stroke-width="1.5" fill="none" stroke-opacity="0.45"/>
+  </g>
+
+  <!-- Left + Bottom + Right as one connected path → clean corners -->
+  <path d="M0,18 L0,98 L800,98 L800,18"
+        stroke="#0C969B" stroke-width="2" fill="none" stroke-opacity="0.9"
+        stroke-linejoin="miter" stroke-linecap="square"/>
+</svg>
