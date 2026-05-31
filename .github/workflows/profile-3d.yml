@@ -26,25 +26,41 @@ jobs:
 
       - name: Replace green with teal
         run: |
-          for f in profile-3d-contrib/profile-night-green.svg profile-3d-contrib/profile-green.svg; do
-            if [ -f "$f" ]; then
-              sed -i \
-                -e 's/#47a042/#0C969B/g' \
-                -e 's/rgb(87, 218, 105)/rgb(12, 150, 155)/g' \
-                -e 's/rgb(73, 182, 88)/rgb(10, 125, 129)/g' \
-                -e 's/rgb(61, 153, 74)/rgb(8, 105, 109)/g' \
-                -e 's/rgb(45, 209, 67)/rgb(11, 144, 149)/g' \
-                -e 's/rgb(38, 175, 56)/rgb(10, 121, 125)/g' \
-                -e 's/rgb(36, 167, 54)/rgb(9, 115, 119)/g' \
-                -e 's/rgb(31, 146, 47)/rgb(8, 101, 104)/g' \
-                -e 's/rgb(30, 140, 45)/rgb(8, 96, 99)/g' \
-                -e 's/rgb(27, 125, 40)/rgb(7, 86, 89)/g' \
-                -e 's/rgb(25, 117, 38)/rgb(6, 81, 83)/g' \
-                -e 's/rgb(23, 105, 33)/rgb(6, 72, 74)/g' \
-                -e 's/rgb(19, 88, 28)/rgb(5, 61, 63)/g' \
-                "$f"
-            fi
-          done
+          python3 - <<'EOF'
+          import os
+
+          replacements = [
+              ("rgb(87, 218, 105)", "rgb(12, 150, 155)"),
+              ("rgb(73, 182, 88)",  "rgb(10, 125, 129)"),
+              ("rgb(61, 153, 74)",  "rgb(8, 105, 109)"),
+              ("rgb(45, 209, 67)",  "rgb(11, 144, 149)"),
+              ("rgb(38, 175, 56)",  "rgb(10, 121, 125)"),
+              ("rgb(36, 167, 54)",  "rgb(9, 115, 119)"),
+              ("rgb(31, 146, 47)",  "rgb(8, 101, 104)"),
+              ("rgb(30, 140, 45)",  "rgb(8, 96, 99)"),
+              ("rgb(27, 125, 40)",  "rgb(7, 86, 89)"),
+              ("rgb(25, 117, 38)",  "rgb(6, 81, 83)"),
+              ("rgb(23, 105, 33)",  "rgb(6, 72, 74)"),
+              ("rgb(19, 88, 28)",   "rgb(5, 61, 63)"),
+              ("#47a042",           "#0C969B"),
+          ]
+
+          targets = [
+              "profile-3d-contrib/profile-night-green.svg",
+              "profile-3d-contrib/profile-green.svg",
+          ]
+
+          for path in targets:
+              if not os.path.exists(path):
+                  continue
+              with open(path, "r", encoding="utf-8") as f:
+                  content = f.read()
+              for old, new in replacements:
+                  content = content.replace(old, new)
+              with open(path, "w", encoding="utf-8") as f:
+                  f.write(content)
+              print(f"Replaced colors in {path}")
+          EOF
 
       - name: Commit & Push
         run: |
