@@ -80,7 +80,7 @@
 
 <br/><br/>
 
-<img src="./profile-3d-contrib.svg" width="100%" />
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
 
 </div>
 
