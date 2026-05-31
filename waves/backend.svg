@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 50" width="100%" height="50" overflow="hidden">
+  <defs>
+    <style>
+      @keyframes wave { from { transform: translateX(0); } to { transform: translateX(-400px); } }
+      .w { animation: wave 4s linear infinite; }
+    </style>
+  </defs>
+  <text x="10" y="16" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#0C969B" letter-spacing="2">BACKEND</text>
+  <g class="w">
+    <path d="M0,36 C74,26 126,26 200,36 C274,46 326,46 400,36 C474,26 526,26 600,36 C674,46 726,46 800,36 C874,26 926,26 1000,36 C1074,46 1126,46 1200,36"
+          stroke="#0C969B" stroke-width="2" fill="none" stroke-opacity="0.9"/>
+    <path d="M0,36 C74,46 126,46 200,36 C274,26 326,26 400,36 C474,46 526,46 600,36 C674,26 726,26 800,36 C874,46 926,46 1000,36 C1074,26 1126,26 1200,36"
+          stroke="#0C969B" stroke-width="1.5" fill="none" stroke-opacity="0.45"/>
+  </g>
+</svg>

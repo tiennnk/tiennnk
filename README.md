@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0C969B&height=200&text=Tien%20Nguyen&fontSize=36&fontColor=0C969B&animation=fadeIn&fontAlignY=38&desc=willbe&descAlignY=55&descColor=b8eced&descSize=16" />
+<img width="100%" src="./waves/header.svg" />
 
 <br/>
 
@@ -20,13 +20,11 @@
 
 * Apply OOP principles, SOLID practices, and design patterns where appropriate to build maintainable systems and support long-term product growth.
 
-* Implemented multi-language (i18n) support for international users.
-
 ---
 
 ## Tech Stack
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0C969B&height=60&text=Backend&fontColor=0C969B&fontSize=18&fontAlignY=50&animation=fadeIn" />
+<img width="100%" src="./waves/backend.svg" />
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -35,7 +33,7 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0C969B&height=60&text=Frontend&fontColor=0C969B&fontSize=18&fontAlignY=50&animation=fadeIn" />
+<img width="100%" src="./waves/frontend.svg" />
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -45,12 +43,12 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0C969B&height=60&text=Database&fontColor=0C969B&fontSize=18&fontAlignY=50&animation=fadeIn" />
+<img width="100%" src="./waves/database.svg" />
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0C969B&height=60&text=Tools%20-%20DevOps&fontColor=0C969B&fontSize=18&fontAlignY=50&animation=fadeIn" />
+<img width="100%" src="./waves/tools.svg" />
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -63,7 +61,7 @@
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0C969B&height=60&text=AI%20Tools&fontColor=0C969B&fontSize=18&fontAlignY=50&animation=fadeIn" />
+<img width="100%" src="./waves/ai-tools.svg" />
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -135,9 +133,3 @@ Coffee shop management system built with Zend Framework MVC — menu, orders, an
 </div>
 
 ---
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0C969B&height=120&section=footer" />
-
-</div>
