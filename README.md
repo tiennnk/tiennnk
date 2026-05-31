@@ -92,8 +92,9 @@
 
 <div align="center">
 
-[![devflow-platform](https://github-readme-stats.vercel.app/api/pin/?username=ngtn-tiennguyen&repo=devflow-platform&bg_color=00000000&border_color=0C969B&title_color=0C969B&icon_color=0C969B&text_color=b8eced)](https://github.com/ngtn-tiennguyen/devflow-platform)
-[![zend-highlands-coffee-mvc](https://github-readme-stats.vercel.app/api/pin/?username=ngtn-tiennguyen&repo=zend-highlands-coffee-mvc&bg_color=00000000&border_color=0C969B&title_color=0C969B&icon_color=0C969B&text_color=b8eced)](https://github.com/ngtn-tiennguyen/zend-highlands-coffee-mvc)
+[![devflow-platform](./waves/card-devflow.svg)](https://github.com/ngtn-tiennguyen/devflow-platform)
+&nbsp;
+[![zend-highlands-coffee-mvc](./waves/card-zend.svg)](https://github.com/ngtn-tiennguyen/zend-highlands-coffee-mvc)
 
 </div>
 
