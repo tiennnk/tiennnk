@@ -75,7 +75,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ngtn-tiennguyen&ring=0C969B&fire=0C969B&currStreakLabel=0C969B&currStreakNum=0C969B&sideLabels=0C969B&sideNums=0C969B&border=0C969B&dates=0C969B&border_radius=10&background=00000000" />
+<img src="https://streak-stats.demolab.com?user=tiennnk&ring=0C969B&fire=0C969B&currStreakLabel=0C969B&currStreakNum=0C969B&sideLabels=0C969B&sideNums=0C969B&border=0C969B&dates=0C969B&border_radius=10&background=00000000" />
 
 <br/><br/>
 
@@ -93,9 +93,9 @@
 
 <div align="center">
 
-[![devflow-platform](./waves/card-devflow.svg)](https://github.com/ngtn-tiennguyen/devflow-platform)
+[![devflow-platform](./waves/card-devflow.svg)](https://github.com/tiennnk/devflow-platform)
 &nbsp;
-[![zend-highlands-coffee-mvc](./waves/card-zend.svg)](https://github.com/ngtn-tiennguyen/zend-highlands-coffee-mvc)
+[![zend-highlands-coffee-mvc](./waves/card-zend.svg)](https://github.com/tiennnk/zend-highlands-coffee-mvc)
 
 </div>
 
@@ -120,7 +120,7 @@
 
 [![Email](https://img.shields.io/badge/Email-0C969B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nnktien.work@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nnktien)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ngtn-tiennguyen)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tiennnk)
 
 </div>
 
