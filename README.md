@@ -75,7 +75,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=tiennnk&ring=0C969B&fire=0C969B&currStreakLabel=0C969B&currStreakNum=0C969B&sideLabels=0C969B&sideNums=0C969B&border=0C969B&dates=0C969B&border_radius=10&background=00000000" />
+<img src="https://github-readme-stats.vercel.app/api?username=tiennnk&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0C969B&icon_color=0C969B&text_color=b8eced&rank_icon=github" />
 
 <br/><br/>
 
