@@ -3,32 +3,28 @@
   <rect x="1" y="1" width="398" height="138" rx="7" ry="7"
         fill="none" stroke="#0C969B" stroke-width="1.5" stroke-opacity="0.85"/>
 
-  <!-- Repo icon -->
-  <path d="M16,22 L16,32 M16,22 L26,22 M26,22 L26,32 M16,27 L26,27"
-        stroke="#0C969B" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-
   <!-- Title -->
-  <text x="34" y="32" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#0C969B">devflow-platform</text>
+  <text x="16" y="32" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#0C969B">devflow-platform</text>
 
   <!-- Description -->
-  <text x="16" y="56" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#b8eced">Developer workflow platform — JWT auth, real-time</text>
-  <text x="16" y="72" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#b8eced">WebSocket, BullMQ job queue, AI-powered log analysis</text>
+  <text x="16" y="56" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#b8eced">Real-time task management — NestJS &amp; Next.js</text>
+  <text x="16" y="72" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#b8eced">Socket.IO, BullMQ queues, PostgreSQL, Docker CI/CD</text>
 
   <!-- Tech tags -->
-  <rect x="16"  y="88" width="60" height="20" rx="10" fill="#339933" fill-opacity="0.85"/>
-  <text x="46"  y="102" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#fff" text-anchor="middle">Node.js</text>
+  <rect x="16"  y="88" width="58" height="20" rx="10" fill="#E0234E" fill-opacity="0.85"/>
+  <text x="45"  y="102" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#fff" text-anchor="middle">NestJS</text>
 
-  <rect x="82"  y="88" width="82" height="20" rx="10" fill="#3178C6" fill-opacity="0.85"/>
-  <text x="123" y="102" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#fff" text-anchor="middle">TypeScript</text>
+  <rect x="80"  y="88" width="64" height="20" rx="10" fill="#555555" fill-opacity="0.85"/>
+  <text x="112" y="102" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#fff" text-anchor="middle">Next.js</text>
 
-  <rect x="170" y="88" width="56" height="20" rx="10" fill="#2496ED" fill-opacity="0.85"/>
-  <text x="198" y="102" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#fff" text-anchor="middle">Docker</text>
+  <rect x="150" y="88" width="86" height="20" rx="10" fill="#336791" fill-opacity="0.85"/>
+  <text x="193" y="102" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#fff" text-anchor="middle">PostgreSQL</text>
 
-  <rect x="232" y="88" width="56" height="20" rx="10" fill="#CC0000" fill-opacity="0.85"/>
-  <text x="260" y="102" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#fff" text-anchor="middle">BullMQ</text>
+  <rect x="242" y="88" width="72" height="20" rx="10" fill="#00BCD4" fill-opacity="0.85"/>
+  <text x="278" y="102" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#fff" text-anchor="middle">Socket.IO</text>
 
-  <rect x="294" y="88" width="48" height="20" rx="10" fill="#DC382D" fill-opacity="0.85"/>
-  <text x="318" y="102" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#fff" text-anchor="middle">Redis</text>
+  <rect x="320" y="88" width="58" height="20" rx="10" fill="#2496ED" fill-opacity="0.85"/>
+  <text x="349" y="102" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#fff" text-anchor="middle">Docker</text>
 
   <!-- GitHub repo button -->
   <rect x="294" y="111" width="90" height="21" rx="10" fill="#0C969B"/>
