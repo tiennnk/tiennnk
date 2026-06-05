@@ -16,7 +16,7 @@
 
 * Fullstack Developer building web applications and RESTful APIs in production environments.
 
-* Working primarily with PHP (Zend/Laminas) and MySQL, with a focus on backend development, system maintenance, and database performance.
+* Working primarily with PHP (Zend) and MySQL, with a focus on backend development, system maintenance, and database performance.
 
 * Apply OOP principles, SOLID practices, and design patterns where appropriate to build maintainable systems and support long-term product growth.
 
@@ -28,7 +28,7 @@
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Zend/Laminas](https://img.shields.io/badge/Zend%2FLaminas-68B604?style=for-the-badge&logo=zend-framework&logoColor=white)
+![Zend](https://img.shields.io/badge/Zend-68B604?style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -49,6 +49,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![ORM](https://img.shields.io/badge/ORM-888888?style=for-the-badge&logoColor=white)
+![Doctrine](https://img.shields.io/badge/Doctrine-FC6A31?style=for-the-badge&logo=doctrine&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 <img width="100%" src="./waves/tools.svg" />
 
@@ -63,12 +66,13 @@
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<img width="100%" src="./waves/ai-tools.svg" />
+<img width="100%" src="./waves/engineering.svg" />
 
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
-![AI Log Integration](https://img.shields.io/badge/AI%20Log%20Integration-0C969B?style=for-the-badge&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-0C969B?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-0C969B?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-0C969B?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-0C969B?style=for-the-badge)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-0C969B?style=for-the-badge)
 
 <img width="100%" src="./waves/footer-line.svg" alt="" />
 
