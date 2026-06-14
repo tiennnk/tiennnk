@@ -98,9 +98,10 @@
 
 <div align="center">
 
-[![devflow-platform](./waves/card-devflow.svg)](https://github.com/tiennnk/devflow-platform)
-&nbsp;
-[![zend-highlands-coffee-mvc](./waves/card-zend.svg)](https://github.com/tiennnk/zend-highlands-coffee-mvc)
+<table border="0" cellspacing="0" cellpadding="8"><tr>
+<td><a href="https://github.com/tiennnk/devflow-platform"><img src="./waves/card-devflow.svg" width="380" alt="devflow-platform" /></a></td>
+<td><a href="https://github.com/tiennnk/zend-highlands-coffee-mvc"><img src="./waves/card-zend.svg" width="380" alt="zend-highlands-coffee-mvc" /></a></td>
+</tr></table>
 
 </div>
 
