@@ -68,8 +68,8 @@ jobs:
 
       - name: Commit & Push
         run: |
-          git config user.email "action@github.com"
-          git config user.name "GitHub Action"
+          git config user.email "kieutiennguyenngoc2002.tn@gmail.com"
+          git config user.name "tiennnk"
           git add -A .
           git diff --cached --quiet || git commit -m "update: 3d contribution calendar"
           git push
