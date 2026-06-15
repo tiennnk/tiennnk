@@ -71,5 +71,5 @@ jobs:
           git config user.email "kieutiennguyenngoc2002.tn@gmail.com"
           git config user.name "tiennnk"
           git add -A .
-          git diff --cached --quiet || git commit -m "update: 3d contribution calendar"
+          git diff --cached --quiet || git commit -m "[tiennnk][$(date +%Y%m%d)][chore] update 3d contribution calendar"
           git push
