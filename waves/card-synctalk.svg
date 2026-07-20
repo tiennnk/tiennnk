@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 140" width="400" height="140">
+  <!-- Border -->
+  <rect x="1" y="1" width="398" height="138" rx="7" ry="7"
+        fill="none" stroke="#0C969B" stroke-width="1.5" stroke-opacity="0.85"/>
+
+  <!-- Title -->
+  <text x="16" y="32" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#0C969B">synctalk</text>
+
+  <!-- Description -->
+  <text x="16" y="56" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#b8eced">Real-time private chat — WebSocket &amp; STOMP with Spring Boot</text>
+  <text x="16" y="72" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#b8eced">JWT auth over REST &amp; WebSocket, MongoDB message history</text>
+
+  <!-- Tech tags -->
+  <rect x="16"  y="88" width="44" height="20" rx="10" fill="#F89820" fill-opacity="0.85"/>
+  <text x="38"  y="102" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#fff" text-anchor="middle">Java</text>
+
+  <rect x="68"  y="88" width="86" height="20" rx="10" fill="#6DB33F" fill-opacity="0.85"/>
+  <text x="111" y="102" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#fff" text-anchor="middle">Spring Boot</text>
+
+  <rect x="162" y="88" width="82" height="20" rx="10" fill="#00BCD4" fill-opacity="0.85"/>
+  <text x="203" y="102" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#fff" text-anchor="middle">WebSocket</text>
+
+  <rect x="252" y="88" width="70" height="20" rx="10" fill="#47A248" fill-opacity="0.85"/>
+  <text x="287" y="102" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#fff" text-anchor="middle">MongoDB</text>
+
+  <rect x="330" y="88" width="48" height="20" rx="10" fill="#000000" fill-opacity="0.85"/>
+  <text x="354" y="102" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#fff" text-anchor="middle">JWT</text>
+
+  <!-- GitHub repo button -->
+  <rect x="336" y="112" width="48" height="18" rx="9" fill="#0C969B"/>
+  <text x="360" y="124.5" font-family="Arial,Helvetica,sans-serif" font-size="10" fill="#fff" text-anchor="middle" font-weight="600">Repo</text>
+</svg>
