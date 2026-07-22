@@ -14,9 +14,9 @@
 
 ## Profile
 
-* Software Engineer with nearly 2 years of experience building backend systems and RESTful APIs in production environments.
+* Software Engineer with two years of experience building backend systems and RESTful APIs in production environments.
 
-* Worked as a Full-stack Developer with a primary focus on backend development using PHP (Zend/Laminas) and relational databases.
+* Worked as a Software Developer with a primary focus on backend development using PHP (Zend/Laminas) and relational databases.
 
 * Currently focusing on Java backend development with Spring Boot, Spring Security, JPA, and WebSocket.
 
